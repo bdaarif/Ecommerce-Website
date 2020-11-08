@@ -1,0 +1,25 @@
+.container{
+    margin-bottom: 100px;
+}
+.bg-slider-left{
+    background-image: url("../images/bg-2.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.bg-slider-right{
+    background-image: url("../images/bg-1.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.buy-now-button{
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 10px;
+}
+.carousel-indicators li{
+    width: 20px;
+    height: 7px;
+    background-color: red;
+}
